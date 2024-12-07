@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="nI3cPbJXSqeGnb-wpEZ-">
-    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="638" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,12 +79,6 @@
         <mxCell id="_z08glq9HX6NbwPmiF1c-22" value="you won" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="590" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_z08glq9HX6NbwPmiF1c-38" value="right" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#ea0606;" vertex="1" parent="1">
-          <mxGeometry x="490" y="180" width="200" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="_z08glq9HX6NbwPmiF1c-39" value="left" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="388" y="240" width="75" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="_z08glq9HX6NbwPmiF1c-41" value="wait" style="text;html=1;align=center;verticalAlign=middle;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="455" y="310" width="87" height="40" as="geometry" />
         </mxCell>
@@ -99,6 +93,12 @@
         </mxCell>
         <mxCell id="_z08glq9HX6NbwPmiF1c-45" value="yellow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="388" y="561" width="88" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="_z08glq9HX6NbwPmiF1c-47" value="right" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="455" y="165" width="91.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_z08glq9HX6NbwPmiF1c-48" value="left" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="361" y="205" width="138" height="135" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
